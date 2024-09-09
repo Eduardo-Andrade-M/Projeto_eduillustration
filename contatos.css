@@ -1,0 +1,41 @@
+body {
+    background-color: #067719;
+}
+
+header h1 {
+    text-align: center;
+    border-style: double;
+    margin: 5%;
+    width: 1200px;
+    background-color: #aaa705;
+}
+header h2 {
+    text-align: center;
+    margin: 3%;
+    
+    
+    border-style:double;background-color: #aaa705;
+    width: 260px;
+        
+    
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header p {
+    text-align: center;
+    margin: 1%;
+    margin-top: 0%;
+}
+img {
+    width: 90px; /* Ajuste o tamanho conforme necessário */
+    height: auto;
+    
+    margin:1%;
+    border-radius: 90px;
+    border: 5px solid rgb(0,0,0);
+}
